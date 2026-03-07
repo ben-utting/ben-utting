@@ -1,12 +1,12 @@
 # Hey, I'm Ben Utting
 
-I'm an infrastructure engineer turned AI builder. My day-to-day lives in the world of Azure, VMware, and server operations — but increasingly, I'm spending my time building AI-powered tools and automation systems that make complex workflows fast and simple.
+I'm an infrastructure engineer turned AI builder. My day to day lives in the world of Azure, VMware, and server operations — but increasingly, I'm spending my time building AI powered tools and automation systems that make complex workflows fast and simple.
 
 I work across two areas:
 
-**AI Automation** — helping businesses and individuals get real value from tools like Claude Code, N8N, and custom AI workflows. I build things like RAG pipelines, MCP integrations, and Claude-powered agents that actually get work done.
+**AI Automation** — helping businesses and individuals get value from tools like OpenClaw, Claude Code, N8N, and custom AI automations. I build things like RAG pipelines, MCP integrations, and Claude powered agents.
 
-**Infrastructure Tooling** — turning real operational problems into clean, open-source solutions. The tools here come from genuine pain points I've encountered working in infrastructure teams. Stripped of anything proprietary, built to be useful to anyone running a similar environment.
+**Infrastructure Tooling** — turning operational problems into clean, open source solutions. The tools here come from genuine pain points I've encountered working in infrastructure teams. Stripped of anything proprietary, built to be useful to anyone running a similar environment.
 
 ---
 
@@ -35,12 +35,3 @@ I work across two areas:
 **Patching Dashboard** — A custom monitoring dashboard that surfaces the patching data that default tooling doesn't show well. Built for infrastructure teams who need visibility without the noise.
 
 More coming. Watch this space.
-
----
-
-## Get in Touch
-
-- Upwork: [upwork.com/freelancers/benutting](https://www.upwork.com/freelancers/benutting)
-- Email: *(add your email if you want)*
-
-If you're a business looking to improve infrastructure processes, embed AI into your operations, or automate workflows that are eating your team's time — feel free to reach out.
