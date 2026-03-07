@@ -1,6 +1,6 @@
 # Hey, I'm Ben Utting
 
-I'm an infrastructure engineer turned AI builder. My day-to-day lives in the world of Azure, VMware, and server operations — but increasingly, I'm spending my time building AI-powered tools and automation systems that make complex workflows fast and simple.
+I'm a infrastructure engineer turned AI builder. My day-to-day lives in the world of Azure, VMware, and server operations — but increasingly, I'm spending my time building AI-powered tools and automation systems that make complex workflows fast and simple.
 
 I work across two areas:
 
