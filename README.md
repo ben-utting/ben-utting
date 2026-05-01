@@ -6,7 +6,7 @@ I run two things:
 
 [**Ctrl Alt Automate**](https://ctrlaltautomate.com) / AI automation for businesses. Claude Code skills, n8n workflows, AI agents, scraping pipelines, MCP integrations. I build the stuff that runs while you sleep.
 
-**Ctrl OPS** / Infrastructure + AI operations consulting. Taking what I've built inside enterprise IT and packaging it for other teams with the same problems.
+**Ctrl Alt Ops** / Infrastructure + AI operations consulting. Taking what I've built inside enterprise IT and packaging it for other teams with the same problems.
 
 ## Stack
 
