@@ -17,11 +17,11 @@ Infrastructure engineer by trade, AI Agent builder by obsession. 10 years in IT 
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**AI/Automation:** Claude API, Claude Code, OpenClaw, n8n, MCP servers, OpenRouter, fal.ai, Perplexity API
-**Languages:** Python, TypeScript/JavaScript, Bash
-**Infrastructure:** Azure, VMware, Proxmox, Docker, Tailscale, systemd, Cloudflare Tunnels
-**Data:** SQLite, Supabase, Google Sheets, Airtable, pdfplumber, Playwright/Patchright
-**Frontend:** Next.js, React, Tailwind, FastAPI + vanilla JS, Chart.js
+- **AI/Automation:** Claude API, Claude Code, OpenClaw, n8n, MCP servers, OpenRouter, fal.ai, Perplexity API
+- **Languages:** Python, TypeScript/JavaScript, Bash
+- **Infrastructure:** Azure, VMware, Proxmox, Docker, Tailscale, systemd, Cloudflare Tunnels
+- **Data:** SQLite, Supabase, Google Sheets, Airtable, pdfplumber, Playwright/Patchright
+- **Frontend:** Next.js, React, Tailwind, FastAPI + vanilla JS, Chart.js
 
 ---
 
