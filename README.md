@@ -1,6 +1,18 @@
-# Hey, I'm Ben Utting
+# Hey, I'm Ben Utting 👋
 
-Infrastructure engineer by trade, AI Agent builder by obsession. 10 years in IT operations (Azure, VMware, patching, server lifecycle), also building AI systems that replace the manual work I used to do by hand.
+Infrastructure engineer with 10 years in IT operations: Azure, VMware, patching, server lifecycle. These days I spend most of my time building AI agents and the web apps around them, automating the manual work I used to do by hand.
+
+Most of it runs on a homelab: Proxmox, Docker, self-hosted behind Tailscale. I write the agent logic, the dashboards, the database, and run the infrastructure that keeps it all running.
+
+## What I'm building
+
+**🤖 [n8n-workflows](https://github.com/ben-utting/n8n-workflows).** Free, import-ready n8n templates for small businesses: lead intake, notifications, AI extraction, with setup guides.
+
+**🧩 [claude-skills](https://github.com/ben-utting/claude-skills).** Ready-to-use skills for Claude Code.
+
+**📊 Finance Dashboard.** A self-hosted FastAPI app that imports PDFs (payslips, invoices, earnings statements) with no manual entry, tracks budgets and UK tax across 22 tables, and calls an AI model for portfolio analysis. 76 endpoints, SQLite.
+
+**🗂️ Life OS.** A personal productivity dashboard in Next.js 16: tasks, habits, focus timer, projects, and a rotating weekly schedule. Dockerised and self-hosted.
 
 ## Stack
 
@@ -23,8 +35,6 @@ Infrastructure engineer by trade, AI Agent builder by obsession. 10 years in IT 
 - **Data:** SQLite, Supabase, Google Sheets, Airtable, pdfplumber, Playwright/Patchright
 - **Frontend:** Next.js, React, Tailwind, FastAPI + vanilla JS, Chart.js
 
----
+## Get in touch
 
-## Get in Touch
-
-Building something that needs AI automation or infrastructure tooling? I'm on [Upwork](https://www.upwork.com/freelancers/benutting) and at [ctrlaltautomate.com](https://ctrlaltautomate.com).
+Building something that needs AI automation or infrastructure tooling?
