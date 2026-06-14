@@ -10,10 +10,6 @@ Most of it runs on a homelab: Proxmox, Docker, self-hosted behind Tailscale. I w
 
 **🧩 [claude-skills](https://github.com/ben-utting/claude-skills).** Ready-to-use skills for Claude Code.
 
-**📊 Finance Dashboard.** A self-hosted FastAPI app that imports PDFs (payslips, invoices, earnings statements) with no manual entry, tracks budgets and UK tax across 22 tables, and calls an AI model for portfolio analysis. 76 endpoints, SQLite.
-
-**🗂️ Life OS.** A personal productivity dashboard in Next.js 16: tasks, habits, focus timer, projects, and a rotating weekly schedule. Dockerised and self-hosted.
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,7 +30,3 @@ Most of it runs on a homelab: Proxmox, Docker, self-hosted behind Tailscale. I w
 - **Infrastructure:** Azure, VMware, Proxmox, Docker, Tailscale, systemd, Cloudflare Tunnels
 - **Data:** SQLite, Supabase, Google Sheets, Airtable, pdfplumber, Playwright/Patchright
 - **Frontend:** Next.js, React, Tailwind, FastAPI + vanilla JS, Chart.js
-
-## Get in touch
-
-Building something that needs AI automation or infrastructure tooling?
